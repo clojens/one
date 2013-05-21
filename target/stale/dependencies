@@ -1,0 +1,1 @@
+([:dependencies [[org.clojure/clojure "1.5.1"] [ring "1.0.0-RC1"] [compojure "0.6.4"] [enlive "1.0.0"] [org.mozilla/rhino "1.7R3"] [com.google.javascript/closure-compiler "r1592"] [org.clojure/google-closure-library "0.0-790"] [lein-light "0.0.27"]]])
