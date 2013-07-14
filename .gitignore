@@ -4,7 +4,5 @@
 /.repl/
 /classes/
 /wiki
-/.lein-deps-sum
+/.lein-*
 *~
-/.lein-failures
-/.lein-git-deps/
