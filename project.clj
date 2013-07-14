@@ -10,6 +10,7 @@
   :dev-dependencies [[jline "2.10"]
                      [marginalia "0.7.1"]
                      [lein-marginalia "0.7.1"]]
+  :main script.serve
   :repl-options {:init-ns one.sample.repl}
   :source-paths ["src/clj"
                  "src/cljs"
